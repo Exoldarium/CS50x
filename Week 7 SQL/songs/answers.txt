@@ -1,0 +1,5 @@
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+Purple
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+Personally, it's not the type of music i listen to. I don't think you can tell someone's aura just from music they are listening. Of course we can calculate many things, but
+in the end each person is different, choosing arbitrary values, or colours in this case is too limiting. 
