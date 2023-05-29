@@ -4,4 +4,4 @@
 
 ![alt text](/images/CS50xImage.PNG)
 
-This are my solutions to CS50x, Harvard University's introduction to computer science. 
+These are my solutions to CS50x, Harvard University's introduction to computer science. 
